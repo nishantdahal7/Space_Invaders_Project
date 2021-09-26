@@ -11,7 +11,7 @@ def link():
     root.geometry("800x600")
     root.resizable(width=False, height=False)
     root.configure(bg="green")
-    bg = PhotoImage(file="spongebob.png")
+    bg = PhotoImage(file="imag_bg.png")
     # Creating Canvas
     my_canvas = Canvas(root, width=800, height=600, highlightthickness=0)
     my_canvas.pack(fill="both", expand=True)

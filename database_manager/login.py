@@ -49,6 +49,7 @@ def have_an_account():
         data_fetched = cur.fetchall()
         if len(data_fetched) > 0:
             messagebox.showinfo("Login Successfully", "Provided credentials are correct.")
+            window.withdraw()
             Our_game()
 
         else:
@@ -106,7 +107,7 @@ login_button = Button(my_frame, text="Login", bg="blue", font=("courier", 17),
                       fg="white", padx=10, pady=6, command=have_an_account)
 login_button.grid(row=1, column=1)
 empty_line()
-noAccount_button = Button(my_frame, text="Don't have an account ?", bg="green",
+noAccount_button = Button(my_frame, text="Create Account", bg="green",
                           command=terms_and_conditions,
                           font=("courier", 17), fg="white", padx=10, pady=8)
 noAccount_button.grid(row=3, column=1)
