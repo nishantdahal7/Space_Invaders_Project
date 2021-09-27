@@ -9,7 +9,7 @@ import sqlite3
 def link():
 
     root = tkinter.Toplevel()
-    root.title("Registration Forum")
+    root.title("Registration Form")
     root.iconbitmap("agree_0.ico")
     root.geometry("800x600")
     root.resizable(width=False, height=False)
