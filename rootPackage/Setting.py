@@ -7,7 +7,7 @@ from tkinter import messagebox
 
 def open_setting():
     root = Toplevel()
-    root.title("Setting")
+    root.title("Settings")
     root.iconbitmap("sponge.ico")
     root.geometry("800x600")
     root.resizable(width=False, height=False)
