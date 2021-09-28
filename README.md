@@ -16,8 +16,8 @@ The functionalities of the game "Krusty Krab" are mentioned below:
   
 ## Tools Used
 The tools I have used for this project are as shown below:
-- [PyCharm](https://www.jetbrains.com/pycharm/) for making this game project.
--[Python](https://www.python.org/)
+- [PyCharm](https://www.jetbrains.com/pycharm/) to use the IDE’s features to execute the code.
+-[Python](https://www.python.org/) for making this game project.
 - [Pygame](https://www.pygame.org/wiki/GettingStarted) to support all the game functionalities.
 - [Microsoft Word](https://microsoft-word.en.softonic.com/) for documentation. 
 - [Balsamiq Wireframes](https://balsamiq.com/wireframes/) for designing digital prototypes. 
