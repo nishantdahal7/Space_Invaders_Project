@@ -21,7 +21,7 @@ The tools I have used for this project are as shown below:
 - [Pygame](https://www.pygame.org/wiki/GettingStarted) to support all the game functionalities.
 - [Microsoft Word](https://microsoft-word.en.softonic.com/) for documentation. 
 - [Balsamiq Wireframes](https://balsamiq.com/wireframes/) for designing digital prototypes. 
-- [Ganttpro](https://ganttpro.com/) to create our milestone chart.
+- [Ganttpro](https://ganttpro.com/) to create the milestone chart.
 - [Canva](https://www.canva.com/) and [Piktochart](https://piktochart.com/) for creating infographics.
 - [Mp3 Cutter](https://mp3cut.net/) to modify sound effects.
   
