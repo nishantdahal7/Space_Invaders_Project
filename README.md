@@ -33,7 +33,7 @@ The links you can go through:
  <strong><h4> GUARDIAN OF THE GALAXY (Batch: June '30B')</h4>
  <h5> TEAM MEMBERS:-</h5>
     <ol type = i start=1>
-    <li>Nitesh Poudel- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a>, Coventry ID: 11782737<br>
+    <li>Nitesh Poudel- <a href="mailto: niteshpoudel6@gmail.com">niteshpoudel6@gmail.com </a>, Coventry ID: 11782737<br>
     <li>Nishant Raj Dahal- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a>, Coventry ID: 11782405<br>
     <li>Sanjiv Shrestha- <a href="mailto: shresthasanjiv576@gmail.com">shresthasanjiv576@gmail.com </a>, Coventry ID: 11782461<br>
     <li>Subifa Maharjan- <a href="mailto: subifamhrzn@gmail.com">subifamhrzn@gmail.com </a>, Coventry ID: 11781475<br>
