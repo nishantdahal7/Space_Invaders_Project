@@ -12,9 +12,9 @@ The functionalities of the game "Krusty Krab" are mentioned below:
         <li> The game is over when the player is shot thrice.
          </ol>
 
-  <p align = "center"><img src="https://media1.giphy.com/media/xULW8ivHYtd7emdIR2/giphy.gif?cid=ecf05e47mks0wy11wdx5ik34oikrvoqzukoiw2nf4m4fx6rc&rid=giphy.gif&ct=g" width="600">  
+  <p align = "center"><img src="https://media1.giphy.com/media/xULW8ivHYtd7emdIR2/giphy.gif?cid=ecf05e47mks0wy11wdx5ik34oikrvoqzukoiw2nf4m4fx6rc&rid=giphy.gif&ct=g" width="600"> 
+  
 ## Tools Used
-
 The tools I have used for this project are as shown below:
 - [PyCharm](https://www.jetbrains.com/pycharm/) for making this game project.
 -[Python](https://www.python.org/)
@@ -23,15 +23,20 @@ The tools I have used for this project are as shown below:
 - [Balsamiq Wireframes](https://balsamiq.com/wireframes/) for designing digital prototypes. 
 - [Ganttpro](https://ganttpro.com/) to create our milestone chart.
 - [Canva](https://www.canva.com/) and [Piktochart](https://piktochart.com/) for creating infographics.
-- [Mp3 Cutter](https://mp3cut.net/) to modify sound effects. 
+- [Mp3 Cutter](https://mp3cut.net/) to modify sound effects.
+  
+ ## Links
+The links you can go through:
+  - If you get any issues please contact subifamhrzn@gmail.com directly
+    my@email.com . We value your effort to improve this project!
 
-  <strong><h4> GUARDIAN OF THE GALAXY (Batch: June '30B')</h4>
+ <strong><h4> GUARDIAN OF THE GALAXY (Batch: June '30B')</h4>
  <h5> TEAM MEMBERS:-</h5>
     <ol type = i start=1>
-    <li>Nitesh Poudel- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a>,Coventry ID:11782737<br>
-    <li>Nishant Raj Dahal- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a>Coventry ID:<br>
-    <li>Sanjiv Shrestha- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a>Coventry ID:11782461<br>
-    <li>Subifa Maharjan- <a href="mailto: subifamhrzn@gmail.com">subifamhrzn@gmail.com </a>Coventry ID:11781475<br>
+    <li>Nitesh Poudel- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a>, Coventry ID: 11782737<br>
+    <li>Nishant Raj Dahal- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a>, Coventry ID: 11782405<br>
+    <li>Sanjiv Shrestha- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a>, Coventry ID: 11782461<br>
+    <li>Subifa Maharjan- <a href="mailto: subifamhrzn@gmail.com">subifamhrzn@gmail.com </a>, Coventry ID: 11781475<br>
     </ol></strong>
 
   
