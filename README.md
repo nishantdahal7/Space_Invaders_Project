@@ -13,14 +13,35 @@ The functionalities of the game "Krusty Krab" are mentioned below:
          </ol>
 
   <p align = "center"><img src="https://media1.giphy.com/media/xULW8ivHYtd7emdIR2/giphy.gif?cid=ecf05e47mks0wy11wdx5ik34oikrvoqzukoiw2nf4m4fx6rc&rid=giphy.gif&ct=g" width="600">  
- <strong><h4> GUARDIAN OF THE GALAXY </h4>
+## Tools Used
+
+The tools I have used for this project are as shown below:
+- [PyCharm](https://www.jetbrains.com/pycharm/) for making this game project.
+-[Python](https://www.python.org/)
+- [Pygame](https://www.pygame.org/wiki/GettingStarted) to support all the game functionalities.
+- [Microsoft Word](https://microsoft-word.en.softonic.com/) for documentation. 
+- [Balsamiq Wireframes](https://balsamiq.com/wireframes/) for designing digital prototypes. 
+- [Ganttpro](https://ganttpro.com/) to create our milestone chart.
+- [Canva](https://www.canva.com/) and [Piktochart](https://piktochart.com/) for creating infographics.
+- [Mp3 Cutter](https://mp3cut.net/) to modify sound effects. 
+
+
+
+
+
+
+
+
+ <strong><h4> GUARDIAN OF THE GALAXY (Batch: June '30B')</h4>
  <h5> TEAM MEMBERS:-</h5>
     <ol type = i start=1>
-    <li>Nitesh Poudel<br>
-    <li>Nishant Raj Dahal<br>
-    <li>Sanjiv Shrestha<br>
-    <li>Subifa Maharjan
+    <li>Nitesh Poudel- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a><br>
+    <li>Nishant Raj Dahal- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a><br>
+    <li>Sanjiv Shrestha- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a><br>
+    <li>Subifa Maharjan- <a href="mailto: subifamhrzn@gmail.com">subifamhrzn@gmail.com </a><br>
     </ol></strong>
+
+  
 <i>Future Work:
   <ol type= a start=1>
     <li>Connect with other players online
