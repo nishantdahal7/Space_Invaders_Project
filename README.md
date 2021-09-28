@@ -25,20 +25,13 @@ The tools I have used for this project are as shown below:
 - [Canva](https://www.canva.com/) and [Piktochart](https://piktochart.com/) for creating infographics.
 - [Mp3 Cutter](https://mp3cut.net/) to modify sound effects. 
 
-
-
-
-
-
-
-
- <strong><h4> GUARDIAN OF THE GALAXY (Batch: June '30B')</h4>
+  <strong><h4> GUARDIAN OF THE GALAXY (Batch: June '30B')</h4>
  <h5> TEAM MEMBERS:-</h5>
     <ol type = i start=1>
-    <li>Nitesh Poudel- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a><br>
-    <li>Nishant Raj Dahal- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a><br>
-    <li>Sanjiv Shrestha- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a><br>
-    <li>Subifa Maharjan- <a href="mailto: subifamhrzn@gmail.com">subifamhrzn@gmail.com </a><br>
+    <li>Nitesh Poudel- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a>,Coventry ID:11782737<br>
+    <li>Nishant Raj Dahal- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a>Coventry ID:<br>
+    <li>Sanjiv Shrestha- <a href="mailto: dahalnishant22@gmail.com">dahalnishant22@gmail.com </a>Coventry ID:11782461<br>
+    <li>Subifa Maharjan- <a href="mailto: subifamhrzn@gmail.com">subifamhrzn@gmail.com </a>Coventry ID:11781475<br>
     </ol></strong>
 
   
